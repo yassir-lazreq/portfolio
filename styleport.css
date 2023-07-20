@@ -1,0 +1,42 @@
+body{
+    background-color: #003566
+}
+.header{
+    display: flex;
+}
+.navbar a{
+    margin-top: 200%;
+    position: relative;
+    top: 10;
+    left: 0;
+    width: 100%;
+    padding: 10px ;
+    background-color: transparent;
+    font-size: 18px;
+    color: #ededed;
+    text-decoration: none;
+    font-weight: 400;
+    margin-left: 16px;
+}
+.navbar a:hover{
+    color: #00abf0;
+    transition: 0.2s;
+}
+.proj{
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 100%;
+    background:#219ebc ;
+    border: 2px solid #219ebc;
+    border-radius: 8px;
+    font-size: 19px;
+    color: #023047;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px;
+    z-index: 1;
+    overflow: hidden;
+}

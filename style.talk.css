@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(5, 19, 125, 0.834);
+}
+label{
+    color: antiquewhite;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input{
+    border-radius: 10px;
+}
+.obj{
+    color: rgb(187, 113, 113);
+}
